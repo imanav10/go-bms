@@ -1,10 +1,10 @@
 package routes
 
 
-import {
+import(
 	"github.com/gorilla/mux"
 	"github.com/imanav10/go-bms/pkg/controllers"
-}
+)
 
 
 var RegisterBookStoreRoutes = func(router *mux.Router) {
