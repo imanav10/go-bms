@@ -1,6 +1,6 @@
 package routes
 
-
+// All Postman Routing
 import(
 	"github.com/gorilla/mux"
 	"github.com/imanav10/go-bms/pkg/controllers"
